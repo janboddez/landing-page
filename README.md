@@ -5,6 +5,8 @@ Lets authors, public speakers, artists (and anyone else) map any custom domain t
 
 Written from scratch, this plugin was nevertheless at least inspired by [Multiple Domain Mapping on Single Site](https://wordpress.org/plugins/multiple-domain-mapping-on-single-site/), by [Matthias Wagner](http://www.matthias-wagner.at), and takes some clues from Automattic's [Jetpack](https://github.com/Automattic/jetpack), both licensed under the GPLv2 (or later).
 
+Know what's cool, too? Using this in combination with [Page Themes](https://github.com/janboddez/page-themes).
+
 ## Usage
 You'll need to have all additional domains registered and pointing to your single WordPress install, through their DNS records and your web server configuration.
 
