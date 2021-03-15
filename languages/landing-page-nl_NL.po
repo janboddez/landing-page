@@ -1,0 +1,110 @@
+# Copyright (C) 2020 Jan Boddez
+# This file is distributed under the same license as the Landing Page plugin.
+msgid ""
+msgstr ""
+"Project-Id-Version: Landing Page 0.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/landing-page\n"
+"POT-Creation-Date: 2020-03-18T16:37:51+01:00\n"
+"PO-Revision-Date: 2020-03-18 16:38+0100\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: nl_NL\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.6\n"
+"X-Domain: landing-page\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html_e\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: languages\n"
+
+#. Plugin Name of the plugin
+#: includes/class-options-handler.php:48 includes/class-options-handler.php:49
+#: includes/class-options-handler.php:135
+msgid "Landing Page"
+msgstr "Landing Page"
+
+#. Description of the plugin
+msgid "Map additional domains to any WordPress post or page."
+msgstr "Map additionele domeinen naar een bericht&#8209; of pagina-URL."
+
+#. Author of the plugin
+msgid "Jan Boddez"
+msgstr "Jan Boddez"
+
+#. Author URI of the plugin
+msgid "https://janboddez.tech"
+msgstr "https://janboddez.tech"
+
+#: includes/class-options-handler.php:141
+msgid "Mapping"
+msgstr "Mapping"
+
+#: includes/class-options-handler.php:144
+msgid "Domain"
+msgstr "Domein"
+
+#: includes/class-options-handler.php:145
+#: includes/class-options-handler.php:153
+#: includes/class-options-handler.php:162
+msgid "&rarr;"
+msgstr "&rarr;"
+
+#: includes/class-options-handler.php:146
+msgid "Target"
+msgstr "Doelpagina"
+
+#: includes/class-options-handler.php:155
+#: includes/class-options-handler.php:164
+msgid "Remove this domain"
+msgstr "Dit domein verwijderen"
+
+#: includes/class-options-handler.php:155
+#: includes/class-options-handler.php:164
+msgid "&#8722;"
+msgstr "&#8722;"
+
+#: includes/class-options-handler.php:167
+msgid "Map add-on domains to any post or page URL."
+msgstr "Map additionele domeinen naar een bericht&#8209; of pagina-URL."
+
+#: includes/class-options-handler.php:170
+msgid "Map more domains"
+msgstr "Meer domeinen mappen"
+
+#: includes/class-options-handler.php:170
+msgid "Add Row"
+msgstr "Rij toevoegen"
+
+#: includes/class-options-handler.php:173
+msgid "Optional"
+msgstr "Optioneel"
+
+#: includes/class-options-handler.php:176
+msgid "Canonical URLs"
+msgstr "Canonieke URL&rsquo;s"
+
+#: includes/class-options-handler.php:177
+msgid "Make canonical URLs reflect mapped domains."
+msgstr "Laat canonieke URL&rsquo;s gemapte domeinen weerspiegelen."
+
+#: includes/class-options-handler.php:178
+msgid ""
+"Avoid a so-called &ldquo;duplicate content&rdquo; penalty by search engines."
+msgstr ""
+"Vermijd zogenoemde &lsquo;duplicate content&rsquo;-penalty&rsquo;s door "
+"zoekmachines."
+
+#: includes/class-options-handler.php:181
+msgid "301 Redirects"
+msgstr "301-redirects"
+
+#: includes/class-options-handler.php:182
+msgid "Redirect posts and pages to their mapped domains."
+msgstr "Verwijs berichten en pagina&rsquo;s door naar gemapte domeinen."
+
+#: includes/class-options-handler.php:185
+msgid "Save Changes"
+msgstr "Wijzigingen opslaan"
